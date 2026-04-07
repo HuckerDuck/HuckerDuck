@@ -6,9 +6,9 @@ Currently looking for my first developer job.
 
 ## Projects
 
-- **[matladan-backend](https://github.com/HuckerDuck/matladan-backend)** — Food storage & recipe manager. Spring Boot, JWT, MySQL
-- **[matladan-frontend](https://github.com/HuckerDuck/Matladan_FrontEnd)** — Mobile app for MatLådan. React Native, Expo, TypeScript
-- **[ducktask-backend](https://github.com/HuckerDuck/EnterPrice_AssignMent_Todo_Backend)** — Todo API with roles, RabbitMQ and Docker. Spring Boot
+- **[Matlådan-Backend](https://github.com/HuckerDuck/matladan-backend)** — Food storage & recipe manager. Spring Boot, JWT, MySQL
+- **[MatLådan-Frontend](https://github.com/HuckerDuck/Matladan_FrontEnd)** — Mobile app for MatLådan. React Native, Expo, TypeScript
+- **[Ducktask](https://github.com/HuckerDuck/EnterPrice_AssignMent_Todo_Backend)** — Todo API with roles, RabbitMQ and Docker. Spring Boot
 
 ## Tech
 
