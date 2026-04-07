@@ -1,8 +1,8 @@
 # Hey there!
 
 Java backend developer student based in Stockholm.
-Building with Spring Boot, React and React Native 
-Spring boot focus is on REST API, TDD and secure code
+- Building with Spring Boot, React and React Native 
+- Spring boot focus is on REST API, TDD and secure code
 
 ## Projects
 
