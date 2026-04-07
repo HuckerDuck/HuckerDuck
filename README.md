@@ -1,4 +1,4 @@
-# Hej, jag är Fredrik 
+# Hey there!
 
 Java backend developer student based in Stockholm.
 Building with Spring Boot, REST APIs and React Native.
