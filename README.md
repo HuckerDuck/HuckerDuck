@@ -74,7 +74,7 @@ A task management API built with Spring Boot, RabbitMQ, and Docker.
 
 ## What I’m looking for
 
-I’m currently looking for a LIA internship where I can grow as a backend developer and contribute to a team building real systems.
+I’m currently looking for a Job where I can prove what I really can do 
 
 - Work with Java and Spring Boot in real-world applications
 - Contribute to backend systems with focus on security, APIs, and clean architecture
