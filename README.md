@@ -1,98 +1,60 @@
-# Hey there! 
+# Hi, I'm Fredrik
 
-I’m Fredrik, a Java backend developer student based in Stockholm.
+Fullstack developer in Stockholm with a focus on **Java and Spring Boot** on the backend and **React with TypeScript** on the frontend.
 
-I build fullstack applications with a strong focus on **Spring Boot, REST APIs, security, testing, and modern frontend development**.  
-Right now I’m especially interested in building backend systems that solve real everyday problems.
+I build features end to end, from the database and API to the UI. I care about secure APIs, tests that run against real databases, and apps that run the same way in Docker as on my machine.
 
-## What I work with
+## Tech
 
-- Java and Spring Boot
-- REST API development
-- JWT authentication and secure code
-- MySQL and database design
-- React, TypeScript and React Native
-- Docker and Kubernets
-- TDD and backend testing
+- **Backend:** Java 21, Spring Boot, Spring Security, JWT, REST
+- **Data:** PostgreSQL, MySQL, Flyway
+- **Frontend:** React, TypeScript, React Native, Expo
+- **Testing:** JUnit 5, Mockito, Testcontainers, TDD
+- **DevOps:** Docker, Docker Compose
+- **Messaging:** RabbitMQ
 
-## Featured Projects
+## Featured projects
 
-### Matlådan Backend
-Backend for a food storage and meal planning application built with Spring Boot, JWT, and MySQL.
+### NordFlow (in progress)
+Event-driven order and inventory platform for a Nordic PC components store.
 
-**What it does:**
-- Lets users manage food items in different storage locations
-- Supports recipe handling and ingredient matching
-- Helps users see what they can cook with what they already have at home
-- Generates shopping-related flows based on missing ingredients
+- **Done:** auth-service with registration, JWT login, Flyway migrations and integration tests against PostgreSQL with Testcontainers
+- **Next:** order and inventory services that confirm orders through Kafka events
+- **Then:** React frontend, CI with GitHub Actions and deployment to Kubernetes
 
-**Tech used:**
-- Java
-- Spring Boot
-- Spring Security
-- JWT
-- MySQL
+`Java 21` `Spring Boot 4` `Spring Security` `PostgreSQL` `Flyway` `Testcontainers` `Docker`
 
-[View repository](https://github.com/HuckerDuck/Matladan_Backend)
+[View repository](https://github.com/HuckerDuck/NordFlow)
 
----
+### Matlådan
+Fullstack food storage and meal planning app for families, with a Spring Boot API and a React Native mobile app.
 
-### Matlådan Frontend
-Frontend/mobile client for the Matlådan project, built with React Native, Expo, and TypeScript.
+- Keeps track of food in different storage places at home
+- Matches recipes against what you already have
+- Builds a shopping list from the missing ingredients
 
-**What it does:**
-- Gives users a simple interface to view stored food items
-- Displays recipes and meal-related information
-- Connects to the backend API for authentication and data handling
-- Focuses on practical family-oriented everyday use
+`Java` `Spring Boot` `JWT` `MySQL` `React Native` `Expo` `TypeScript`
 
-**Tech used:**
-- React Native
-- Expo
-- TypeScript
-- API integration
-
-[View repository](https://github.com/HuckerDuck/Matladan_Frontend)
-
----
+[Backend](https://github.com/HuckerDuck/Matladan_Backend) · [Mobile app](https://github.com/HuckerDuck/Matladan_Frontend)
 
 ### DuckTask
-A task management API built with Spring Boot, RabbitMQ, and Docker.
+Task management API with role handling and messaging between services.
 
-**What it does:**
-- Provides a task management backend with role handling
-- Explores API architecture and backend communication patterns
-- Focuses on scalable backend structure and service integration
+- Role handling for different kinds of users
+- Backend communication through RabbitMQ
 
-**Tech used:**
-- Java
-- Spring Boot
-- RabbitMQ
-- Docker
+`Java` `Spring Boot` `RabbitMQ` `Docker`
 
 [View repository](https://github.com/HuckerDuck/DuckTask)
 
-## What I’m looking for
+## What I'm looking for
 
-I’m currently looking for a Job where I can prove what I really can do 
+A role as a Java or fullstack developer where I can:
 
-- Work with Java and Spring Boot in real-world applications
-- Contribute to backend systems with focus on security, APIs, and clean architecture
-- Continue developing my frontend skills with React when needed
+- Build features end to end, from the database and API to the React frontend
+- Work with security, APIs and clean architecture
+- Keep learning from experienced developers
 
-  
-## Tech
+## Let's connect
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Let’s connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fredrik-menot-brauer/)
-- 🌐 [Portfolio](https://fredrikmenotbrauer.se)
+[LinkedIn](https://www.linkedin.com/in/fredrik-menot-brauer/)
