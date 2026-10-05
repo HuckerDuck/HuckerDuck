@@ -35,7 +35,7 @@ Fullstack food storage and meal planning app for families, with a Spring Boot AP
 
 `Java` `Spring Boot` `JWT` `MySQL` `React Native` `Expo` `TypeScript`
 
-[Backend](https://github.com/HuckerDuck/Matladan_Backend) · [Mobile app](https://github.com/HuckerDuck/Matladan_Frontend)
+[Backend](https://github.com/HuckerDuck/Matladan_Backend) 
 
 ### DuckTask
 Task management API with role handling and messaging between services.
